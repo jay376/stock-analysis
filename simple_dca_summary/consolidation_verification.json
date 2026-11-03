@@ -1,0 +1,417 @@
+{
+  "checked_10year_cohorts": 60,
+  "max_terminal_relative_error": 2.220446049250313e-16,
+  "max_xirr_error": 2.220446049250313e-16,
+  "checks": [
+    {
+      "ticker": "TQQQ",
+      "start_year": 1995,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 1996,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 1997,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 1998,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 1999,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2000,
+      "terminal_relative_error": 2.220446049250313e-16,
+      "xirr_error": 1.1102230246251565e-16
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2001,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2002,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2003,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2004,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2005,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2006,
+      "terminal_relative_error": 2.220446049250313e-16,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2007,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2008,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2009,
+      "terminal_relative_error": 2.220446049250313e-16,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2010,
+      "terminal_relative_error": 1.1102230246251565e-16,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2011,
+      "terminal_relative_error": 2.220446049250313e-16,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2012,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2013,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2014,
+      "terminal_relative_error": 2.220446049250313e-16,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2015,
+      "terminal_relative_error": 2.220446049250313e-16,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2016,
+      "terminal_relative_error": 1.1102230246251565e-16,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2017,
+      "terminal_relative_error": 2.220446049250313e-16,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2018,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2019,
+      "terminal_relative_error": 2.220446049250313e-16,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2020,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2021,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2022,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2023,
+      "terminal_relative_error": 2.220446049250313e-16,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "TQQQ",
+      "start_year": 2024,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 1995,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 1996,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 1997,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 1998,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 1999,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 1.1102230246251565e-16
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2000,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2001,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2002,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2003,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2004,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2005,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2006,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2007,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2008,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2009,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2010,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2011,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2012,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2013,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2014,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2015,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2016,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2017,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2018,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2019,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2020,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2021,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2022,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2023,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 2.220446049250313e-16
+    },
+    {
+      "ticker": "QLD",
+      "start_year": 2024,
+      "terminal_relative_error": 0.0,
+      "xirr_error": 0.0
+    }
+  ],
+  "removed_docs": [
+    "14_TQQQ_2018年以来回撤70预付10期策略.md",
+    "18_QLD_2018起五年预付15期本金策略.md",
+    "19_TQQQ_2018起五年预付15期本金策略.md",
+    "23_1995起30组滚动10年风险策略回测.md",
+    "16_QLD_2006起五年回撤70预付本金策略.md",
+    "36_QQQ与TQQQ各半定投对比QLD.md",
+    "21_QQQ周线20周前价格信号_TQQQ_2018至今.md",
+    "26_年度定投回撤90预付5年_30组回测.md",
+    "31_QLD年度亏损与预付3年回测.md",
+    "11_SOXL_回撤80后预付10期本金策略.md",
+    "28_TQQQ当年亏损80当天预付3年_30组回测.md",
+    "17_QLD_2006起五年预付15期本金策略.md",
+    "32_QLD分档预支50_60_70_80_允许超10年.md",
+    "20_QQQ周线20周前价格信号_TQQQ定投策略.md",
+    "24_1995起30组滚动10年_每年投入10000.md",
+    "29_TQQQ预付策略失效原因与优化试验.md",
+    "27_TQQQ当年亏损90当天预付3年_30组回测.md",
+    "10_SOXL_回撤80后十倍定投策略.md",
+    "35_QLD40组最高资产与收益记录.md",
+    "15_QLD_2006至2009年回撤70预付本金策略.md",
+    "13_TQQQ_2018年以来预付10期本金策略.md",
+    "30_TQQQ当年亏损90当天预付3年_详细结果.md",
+    "22_QQQ信号_2008与2022回撤控制试验.md",
+    "33_QLD15年窗口_普通定投与分档预支.md",
+    "12_TQQQ_回撤80后预付10期本金策略.md"
+  ],
+  "remaining_docs": [
+    "01_谷歌研究汇总.md",
+    "02_GOOG_200日线向下偏离.md",
+    "03_GOOG_偏离200日线后创新高时间.md",
+    "04_2026年10月30日美股下跌分析.md",
+    "05_创业板与中证红利比值.md",
+    "06_指数比值分析技能使用说明.md",
+    "07_A股估值水平_2018年以来.md",
+    "08_纳指100_2022年PE核对.md",
+    "09_SOXL_TQQQ_定投回测及逐次明细.md",
+    "25_普通TQQQ年度定投30组结果.md",
+    "33_QLD15年窗口_普通定投.md",
+    "34_QLD1985起40组20年普通定投.md",
+    "37_QQQ与TQQQ年度再平衡对比QLD.md",
+    "38_1985年至今_QQQ与QLD每年定投.md",
+    "39_2005年10月起_QLD与TQQQ每年定投.md",
+    "40_2020年1月起_QLD与TQQQ每年定投.md",
+    "41_2018年起_QQQ与QLD及TQQQ每年5万美元定投.md",
+    "42_GOOG一个月触及250至320美元概率.md",
+    "43_TLT在2008与2020危机中的表现.md",
+    "44_2000年起_TLT与TQQQ各半年度再平衡.md",
+    "README.md"
+  ]
+}
