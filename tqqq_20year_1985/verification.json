@@ -1,0 +1,23 @@
+{
+  "cohorts": 40,
+  "complete_standard_windows": 21,
+  "special_windows": 1,
+  "unfinished_windows": 18,
+  "decimal_precision": 50,
+  "max_raw_price_relative_error": 1.199040866595169e-14,
+  "max_daily_account_relative_error": 9.2148511043888e-15,
+  "final_and_peak_xirr_checks": 80,
+  "max_xirr_absolute_error": 3.774758283725532e-15,
+  "actual_only_cohorts": 14,
+  "actual_only_max_relative_error": 6.661338147750939e-16,
+  "all_peak_dates_and_highest_return_dates_verified": true,
+  "prior_10year_cohorts_verified": 30,
+  "prior_10year_max_relative_error": 4.6629367034256575e-15,
+  "limitations": [
+    "Pre-2010 TQQQ is modeled, not an actual ETF return.",
+    "Pre-QQQ NDX price returns omit dividends.",
+    "IRX borrowing proxy and assumed 1% fee are model assumptions.",
+    "Twenty contribution calendar years do not always mean 20 elapsed years.",
+    "Overlapping cohorts are not independent observations."
+  ]
+}

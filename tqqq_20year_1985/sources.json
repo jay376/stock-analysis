@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-10-30",
+  "official_ndx": "Nasdaq historical NDX aaData, first date 1985-01-31",
+  "yahoo_symbols": [
+    "^NDX",
+    "^IRX",
+    "QQQ",
+    "TQQQ"
+  ],
+  "original_files": [
+    "qld_20year_1985/NDX_official_history_data.json",
+    "qld_20year_1985/NDX_early_raw.json",
+    "qld_20year_1985/NDX_later_raw.json",
+    "qld_20year_1985/IRX_early_raw.json",
+    "qld_20year_1985/IRX_later_raw.json",
+    "qld_20year_1985/QQQ_later_raw.json",
+    "annual_10000_rolling_10year/TQQQ_raw.json"
+  ],
+  "input_definition": "Each daily row retains current and prior underlying raw price, prior-known IRX yield and date, calendar days and actual TQQQ adjusted close."
+}
